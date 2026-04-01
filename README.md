@@ -1,4 +1,4 @@
-<h1 align="center">💎TIKTOK VIEW BOT (USING TIKVUES) #2026 </h1>
+<h1 align="center">💎Vercel Solver using Python #2026 </h1>
 
 <p align='center'>
   <b>Star ⭐ if you want more</b><br>
@@ -7,8 +7,8 @@
 
 ## Features
 ```js
-  * TIKTOK VIEW BOT (USING TIKVUES)
-  * Easy to use, View Bot Slow
+  * Vercel Solver using Python
+  * Easy to use!
   * Compatible Windows 10, 11
 ```
 
@@ -20,9 +20,9 @@
 ##  Usage:
 ```
   * pip install -r requirements.txt in your commands prompt.
-  * py tiktok-bot.py
-  * Enter the link of the video
-  * Botting...
+  * Enter the website link in the script
+  * py vercel-solver.py
+  * Solving...
   * Done...
   * Add Modox.off for help.
 ```
